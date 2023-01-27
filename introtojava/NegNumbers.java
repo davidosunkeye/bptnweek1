@@ -43,11 +43,7 @@ public class NegNumbers {
 					userInput = scanner.nextInt();
 				}
 			}
-		
-		
-		
-		
-		
+
 		}
    
 }
